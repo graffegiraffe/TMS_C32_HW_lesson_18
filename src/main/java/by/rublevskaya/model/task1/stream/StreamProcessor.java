@@ -1,4 +1,4 @@
-package main.java.by.rublevskaya.task1.stream;
+package main.java.by.rublevskaya.model.task1.stream;
 
 import java.util.List;
 import java.util.stream.Collectors;

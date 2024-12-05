@@ -1,6 +1,6 @@
-package main.java.by.rublevskaya.task2;
+package main.java.by.rublevskaya.model.task2;
 
-import main.java.by.rublevskaya.task2.stream.StreamProcessor;
+import main.java.by.rublevskaya.model.task2.stream.StreamProcessor;
 
 import java.util.ArrayList;
 import java.util.Arrays;

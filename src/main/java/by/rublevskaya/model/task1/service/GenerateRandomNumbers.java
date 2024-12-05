@@ -1,4 +1,4 @@
-package main.java.by.rublevskaya.task1.service;
+package main.java.by.rublevskaya.model.task1.service;
 
 import java.util.ArrayList;
 import java.util.List;

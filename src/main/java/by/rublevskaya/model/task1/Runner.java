@@ -1,7 +1,7 @@
-package main.java.by.rublevskaya.task1;
+package main.java.by.rublevskaya.model.task1;
 
-import main.java.by.rublevskaya.task1.service.GenerateRandomNumbers;
-import main.java.by.rublevskaya.task1.stream.StreamProcessor;
+import main.java.by.rublevskaya.model.task1.service.GenerateRandomNumbers;
+import main.java.by.rublevskaya.model.task1.stream.StreamProcessor;
 
 import java.util.List;
 
